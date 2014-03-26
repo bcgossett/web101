@@ -1,0 +1,19 @@
+div{border:solid 4px red;
+height:400px;
+width:400px;
+background-color:yellow;
+border-radius:15px;}
+
+p.person{color:blue}
+p.person{text-align:center;}
+
+
+div.option{
+	border:solid 8px blue;
+	height:250px;
+width:200px;
+background-color:red;
+border-radius:0px}
+div.option{position:absolute;
+left:300px;
+top:200px;}
